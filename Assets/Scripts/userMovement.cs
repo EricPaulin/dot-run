@@ -10,9 +10,9 @@ public class userMovement : MonoBehaviour
 
     }
 
-    public float forwardMove = 700f;
-    public float backwardMove = -700f;
-    public float jumpMove = 700f;
+    public float forwardMove = 15f;
+    public float backwardMove = -15f;
+    public float jumpMove = 20f;
 
 
     // Update is called once per frame
